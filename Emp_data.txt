@@ -1,0 +1,16 @@
+**************** New User ***********************
+Hello sonu! 
+Your age is 20 and your salary is 40000.0.
+your marital status is True.
+**************** New User ***********************
+Hello lait! 
+Your age is 22 and your salary is 2000000000.0.
+your marital status is True.
+**************** New User ***********************
+Hello Sazam! 
+Your age is 12 and your salary is 12.0.
+your marital status is True.
+**************** New User ***********************
+Hello rohit! 
+Your age is 34 and your salary is 434443443434343.0.
+your marital status is True.

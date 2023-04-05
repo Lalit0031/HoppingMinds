@@ -1,0 +1,4 @@
+xyz,daily
+yy,monthly
+cc,daily
+yyz,monthly

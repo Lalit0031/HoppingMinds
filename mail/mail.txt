@@ -1,0 +1,13 @@
+Date : {0}
+TO 
+Name : {1}
+Roll no.: {2}
+
+Subject : Shortage of attendence
+
+This is to inform you that you have less attendence i.e, {3}. 
+So as per the university guidelines you are not allowed to sit in MST.
+
+Regards
+XYZ 
+ABC University

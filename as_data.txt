@@ -1,0 +1,18 @@
+A1 :
+eno,name,dept,gender,sal
+101,'V','CSE','M',20000
+
+
+total salary : _______
+Q1: total salary based on dept
+Q2: total salary based on gender
+Q3: total salary based on gender in a particular dept
+
+
+A2:
+get username and password from a user and check if it's in thefile
+
+A3:
+
+we got a file having info that who's fees is pending 
+we need to send mail to those that their fees is pending

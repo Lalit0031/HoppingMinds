@@ -1,0 +1,3 @@
+diamond.py
+diamond1.py
+diamond2.py
